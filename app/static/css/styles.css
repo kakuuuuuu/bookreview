@@ -1,3 +1,17 @@
 * {
-  font-family: monaco;
+
+}
+.scroll{
+  padding: 10px;
+  height:300px;
+  width:320px;
+  border:1px;
+  border-style:ridge;
+  overflow:auto;
+}
+.navbar{
+  background-color:#4C678C
+}
+.nav-link{
+  color:white;
 }
